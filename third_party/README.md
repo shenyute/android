@@ -4,7 +4,7 @@ android third-party
 libjpeg-turbo
 -------------
 
-Request to use android-ndk-r9d (or above version), since it will require support asm file.
+Request to use android-ndk-r9d (or above version), since it will require support asm file. I provide Android.mk to support building libjpeg-turbo for armeabi, armeabi-v7a and x86.
 
 Use ./configure to generate jconfig.h manually
 
